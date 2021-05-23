@@ -1,5 +1,5 @@
 # fp-growth
-Python implementation of the fp-growth algorithm for discovering frequent itemsets.
+Python implementation of the fp-growth algorithm for discovering frequent itemsets within a grocery store transaction database.
 
 ## Table of Contents
 * [General info](#general-info)
