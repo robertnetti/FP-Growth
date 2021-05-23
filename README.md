@@ -8,7 +8,7 @@ Python implementation of the fp-growth algorithm for discovering frequent itemse
 * [Author](#author)
 
 ## General Info
-The motivation behind this project, and code explanation, can be found [here](https://www-users.cs.umn.edu/~kumar001/dmbook/ch5_association_analysis.pdf). This project uses a [CSV file](https://raw.githubusercontent.com/robertnetti/fp-growth/main/fpGrowth/transactions.csv) containing market basket transactions to find frequent itemsets.
+The motivation behind this project, and code explanation, can be found [here](https://www-users.cs.umn.edu/~kumar001/dmbook/ch5_association_analysis.pdf). This project uses a [CSV file](https://raw.githubusercontent.com/robertnetti/fp-growth/main/fpGrowth/transactions.csv) containing market basket transactions to find frequent itemsets.<br /><br />
 
 ![Sample Output](./fpGrowth/sample-output.png)
 
